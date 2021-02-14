@@ -1,6 +1,6 @@
 --- 
 title: {{ title }} 
-date: {{ date }}
+date: {{  }}
 top: false
 cover: false
 password:
