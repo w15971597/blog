@@ -1,6 +1,6 @@
 --- 
 title: {{ title }} 
-date: {{  }}
+date: {{ 2021-01-28 11:30:00 +0800 }}
 top: false
 cover: false
 password:
